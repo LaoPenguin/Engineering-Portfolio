@@ -1,0 +1,28 @@
+ *** Starting Verify Geometry (MEM: 1199.6) ***
+
+**WARN: (IMPVFG-257):	setVerifyGeometryMode/verifyGeometry command is obsolete and should not be used any more. It still works in this release but will be removed in future release. You should change to use set_verify_drc_mode/verify_drc which is the replacement tool for verifyGeometry.
+  VERIFY GEOMETRY ...... Starting Verification
+  VERIFY GEOMETRY ...... Initializing
+  VERIFY GEOMETRY ...... Deleting Existing Violations
+  VERIFY GEOMETRY ...... Creating Sub-Areas
+                  ...... bin size: 8320
+  VERIFY GEOMETRY ...... SubArea : 1 of 1
+  VERIFY GEOMETRY ...... Cells          :  0 Viols.
+  VERIFY GEOMETRY ...... SameNet        :  0 Viols.
+  VERIFY GEOMETRY ...... Wiring         :  0 Viols.
+  VERIFY GEOMETRY ...... Antenna        :  0 Viols.
+VG: elapsed time: 0.00
+Begin Summary ...
+  Cells       : 0
+  SameNet     : 0
+  Wiring      : 0
+  Antenna     : 0
+  Short       : 0
+  Overlap     : 0
+End Summary
+
+  Verification Complete : 0 Viols.  0 Wrngs.
+
+**********End: VERIFY GEOMETRY**********
+ *** verify geometry (CPU: 0:00:00.3  MEM: 27.4M)
+

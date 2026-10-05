@@ -1,0 +1,6 @@
+Digital_Top CCOpt / CTS Status
+==============================
+Dedicated CTS / ccopt_design step: not performed
+Reason: simplified course-level block backend flow focused on synthesis, floorplan, placement, routing, and GDS export.
+Report implication: no clock tree skew / insertion delay signoff is claimed.
+Timing support: post-route setup and hold timing reports are used as the timing-closure evidence.

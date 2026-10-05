@@ -1,0 +1,8 @@
+    Hinst Name       Module Name                                                                                                                                                        Inst Count           Total Area
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Digital_Top                                                                                                                                                                                    533            13311.693
+ u_alarm_led_ctrl    Alarm_Led_Ctrl                                                                                                                                                              2               26.342
+ u_calibration_alu   Calibration_ALU_ADC_WIDTH10_TEMP_WIDTH12_ADC_LOW_CODE78_ADC_HIGH_CODE946_ADC_SPAN868_TEMP_MIN_X10n200_TEMP_MAX_X10800_TEMP_SLOPE_Q124719_ROUND_Q122048_Q12_SHIFT12        220             5180.672
+ u_clock_divider     Clock_Divider_CLK_FREQ_HZ1000000                                                                                                                                          205             5141.158
+ u_serialize_output  Serialize_Output_TEMP_WIDTH12_DEV_ID_WIDTH4_FRAME_WIDTH16                                                                                                                  85             2502.528
+ u_top_control_fsm   Top_Control_FSM                                                                                                                                                            21              460.992

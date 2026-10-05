@@ -1,0 +1,11 @@
+# Private working references — never include in the public portfolio
+/参考资料/
+/internal/
+
+# Generated files and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.DS_Store
+Thumbs.db
